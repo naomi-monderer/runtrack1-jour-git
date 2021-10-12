@@ -1,0 +1,40 @@
+body{
+
+  background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c);
+
+
+
+}
+
+h1{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color:darkslategray;  
+  text-shadow: whitesmoke 6px 6px 4px;
+  
+}
+
+table{
+
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  border-collapse: collapse;
+}
+
+th, td{
+
+  font-size: 100%;
+  border: 5px solid black;
+  padding: 10px;
+}
+
+.t{
+
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+  
+}
+
+.cont2{
+
+  width: 50%;
+}
